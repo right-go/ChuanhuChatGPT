@@ -1,0 +1,22 @@
+{
+    "name": "一人团队专用deepseek",
+    "short_name": "一人团队专用deepseek",
+    "description": "一人团队专用deepseek- 让你一个人也能生成电影 ",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/file=web_assets/icon/mask-icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/file=web_assets/icon/any-icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ]
+}
